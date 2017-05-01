@@ -10,7 +10,9 @@
     "purescript-prelude": "^3.0.0",
     "purescript-console": "^3.0.0",
     "purescript-node-fs": "^4.0.0",
-    "purescript-http": "^2.0.0"
+    "purescript-http": "^2.0.0",
+    "purescript-any-db": "*"
+
   },
   "devDependencies": {
     "purescript-psci-support": "^3.0.0"
