@@ -1,0 +1,19 @@
+{
+  "name": "playground",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.0.0",
+    "purescript-console": "^3.0.0",
+    "purescript-node-fs": "^4.0.0",
+    "purescript-phoenix": "^2.0.2"
+
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
